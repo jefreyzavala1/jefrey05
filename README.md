@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-I am a full stack software engineer with a passion for creating innovative and useful projects!
+I am a software engineer with a passion for creating innovative and useful projects!
 
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [portfolio](http://jefreyzavala.netlify.app/)
