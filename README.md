@@ -40,7 +40,7 @@ I am a software engineer with a passion for creating innovative and useful proje
 
 **My GitHub Stats**
 
-![jefrey05's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefreyzavala1&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![jefreyzavala1's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefreyzavala1&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 
 **GitHub Commits Graph**
 
