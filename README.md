@@ -8,7 +8,7 @@ Software Engineer
 I am a software engineer with a passion for creating innovative and useful projects!
 
 * 🌍 I'm based in New York
-* 🖥️ See my portfolio at [portfolio](http://jefreyzavala.netlify.app/)
+* 🖥️ See my portfolio at [portfolio](https://jefreyzavala.me/)
 * ✉️ You can contact me at [jefreyzavala1@gmail.com](mailto:jefreyzavala1@gmail.com)
 * 🧠 I'm learning React
 * 🤝 I'm open to collaborating on Projects
